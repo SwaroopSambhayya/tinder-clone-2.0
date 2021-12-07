@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>261259144383-l145ejrpidbh9nc38h003hvos8muicmb.apps.googleusercontent.com</string>
+	<string>"YOUR CLIENT ID"</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.261259144383-l145ejrpidbh9nc38h003hvos8muicmb</string>
 	<key>API_KEY</key>
